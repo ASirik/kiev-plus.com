@@ -233,7 +233,7 @@ if(isset($_POST['submitted-question'])) {
             <div class="close right">X</div>
             <div class="content">
                 <h1>Контакты</h1>
-                <p>Наш e-mail: kiev-plus@ukr.net</p>
+                <p> Наш e-mail: kiev-plus@ukr.net</p>
                 <p>Контактные тел: (044) 355-63-36 (063) 000-00-00</p>
 
                 <div class="map">
