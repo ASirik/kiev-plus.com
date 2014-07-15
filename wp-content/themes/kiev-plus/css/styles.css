@@ -294,7 +294,7 @@ footer {
   left: 0%;
   width: 100%;
   height: 100%;
-  min-height: 575px; }
+  min-height: 673px; }
   .pop-up .content-wrapper-smaller {
     position: relative; }
   .pop-up h1 {
@@ -323,19 +323,24 @@ footer {
   font-size: 18px;
   font-weight: 100; }
 
-.back-call p {
+.back-call h2.short-msg, .back-contacts h2.short-msg {
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 16px;
+  margin: 25px 0 30px 0; }
+.back-call p, .back-contacts p {
   display: inline-block;
   width: 95%;
   padding: 7px 7px 0 10px; }
-  .back-call p label {
+  .back-call p label, .back-contacts p label {
     margin-left: 20px;
     width: 79px;
     display: inline-block;
     margin-top: 9px;
     font-size: 16px; }
-.back-call .content-wrapper-smaller {
+.back-call .content-wrapper-smaller, .back-contacts .content-wrapper-smaller {
   margin: 90px auto; }
-.back-call .content {
+.back-call .content, .back-contacts .content {
   width: 394px;
   background: rgba(253, 253, 249, 0.8);
   border-radius: 10px;
@@ -344,11 +349,11 @@ footer {
   -webkit-box-shadow: 4px 1px 8px 0px rgba(17, 17, 17, 0.6);
   -moz-box-shadow: 4px 1px 8px 0px rgba(17, 17, 17, 0.6);
   box-shadow: 4px 1px 8px 0px rgba(17, 17, 17, 0.6); }
-.back-call .short-msg {
+.back-call .short-msg, .back-contacts .short-msg {
   width: 250px;
   margin-top: 10px;
   margin-bottom: 10px; }
-.back-call input {
+.back-call input, .back-contacts input {
   width: 220px;
   border-radius: 5px;
   float: right;
@@ -356,14 +361,14 @@ footer {
   padding: 3px;
   border: 1px solid #898989;
   background: rgba(253, 253, 249, 0.8); }
-.back-call textarea {
+.back-call textarea, .back-contacts textarea {
   border: 1px solid #898989;
   float: right;
   width: 220px;
   padding: 3px;
   border-radius: 5px;
   background: rgba(253, 253, 249, 0.8); }
-.back-call .submit {
+.back-call .submit, .back-contacts .submit {
   width: 95px;
   background: #FFF;
   border: 1px solid #898989;
@@ -371,7 +376,7 @@ footer {
   font-size: 12px;
   font-family: 'Gill Sans', sans-serif;
   height: 25px; }
-.back-call .submit-wrapper {
+.back-call .submit-wrapper, .back-contacts .submit-wrapper {
   margin-bottom: 50px; }
 
 .card-content {

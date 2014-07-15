@@ -7,7 +7,7 @@ if(isset($_POST['submitted'])) {
         $name = trim($_POST['name']);
     }
 
-    /*if(trim(isset($_POST['email'])) === '')  {
+    if(trim(isset($_POST['email'])) === '')  {
         $emailError = 'Please enter your email address.';
         $hasError = true;
     } else if (!preg_match("/^[[:alnum:]][a-z0-9_.-]*@[a-z0-9.-]+\.[a-z]{2,4}$/i", trim($_POST['email']))) {
@@ -15,7 +15,7 @@ if(isset($_POST['submitted'])) {
         $hasError = true;
     } else {
         $email = trim($_POST['email']);
-    }*/
+    }
 
     if(trim(isset($_POST['phone'])) === '')  {
         $emailError = 'Please enter your email address.';
@@ -52,12 +52,60 @@ if(isset($_POST['submitted'])) {
         if($emailSent == true){
             header("Location: http://kiev-plus.com");
             ?>
-            <!--<script>//jQuery(document).ready(function($){
-                    window.location.href('http://kiev-plus.com');
-                    email();
-                //})
-            </script>-->
+
         <?php }
+    }
+
+}
+
+if(isset($_POST['submitted-question'])) {
+    if(trim(isset($_POST['name'])) === '') {
+        $nameError = 'Please enter your name.';
+        $hasError = true;
+    } else {
+        $name = trim($_POST['name']);
+    }
+
+    if(trim(isset($_POST['email'])) === '')  {
+        $emailError = 'Please enter your email address.';
+        $hasError = true;
+    } else if (!preg_match("/^[[:alnum:]][a-z0-9_.-]*@[a-z0-9.-]+\.[a-z]{2,4}$/i", trim($_POST['email']))) {
+        $emailError = 'You entered an invalid email address.';
+        $hasError = true;
+    } else {
+        $email = trim($_POST['email']);
+    }
+
+    if(trim(isset($_POST['theme'])) === '') {
+        $themeError = 'Please enter your theme.';
+        //$hasError = true;
+    } else {
+        $theme = trim($_POST['theme']);
+    }
+
+    if(trim($_POST['msg']) === '') {
+        $commentError = 'Please enter a message.';
+        $hasError = true;
+    } else {
+        if(function_exists('stripslashes')) {
+            $comments = stripslashes(trim($_POST['msg']));
+        } else {
+            $comments = trim($_POST['msg']);
+        }
+    }
+
+    if(!isset($hasError)) {
+        $emailTo = get_option('tz_email');
+        if (!isset($emailTo) || ($emailTo == '') ){
+            $emailTo = get_option('admin_email');
+        }
+        $subject = 'Kiev Plus '.$name;
+        $body = "Имя: $name \n\nEmail: $email \n\nКоментарий: $comments\n\n Тема: $theme";
+        $headers = 'От: '.$name.' <'.$emailTo.'>' . "\r\n" . 'Reply-To: ' . $phone;
+
+        wp_mail($emailTo, $subject, $body, $headers);
+        $emailSent = true;
+            header("Location: http://kiev-plus.com");
     }
 
 } ?>
@@ -139,6 +187,45 @@ if(isset($_POST['submitted'])) {
         </div>
     </div>
 
+    <div class="back-contacts pop-up" style="display:none">
+        <?php require_once 'back-call.php' ?>
+        <div class="content-wrapper-smaller">
+            <div class="close right">X</div>
+            <div class="content">
+
+                <form action="<?php bloginfo('url'); ?>" method="POST">
+                    <div class="call-back-form">
+                        <h2 class="short-msg right">
+                            Напишите нам
+                        </h2>
+                        <div class="clearfix"></div>
+                        <p>
+                            <label for="name">Ваше имя:</label>
+                            <input type="text" id="name" name="name"/>
+                        </p>
+                        <p>
+                            <label for="email">Ваш e-mail</label>
+                            <input type="text" name="email" id="email"/>
+                        </p>
+                        <p>
+                            <label for="theme">Тема:</label>
+                            <input type="text" name="theme" id="theme"/>
+                        </p>
+                        <p>
+                            <label for="msg">Ваше <br/> сообщение</label>
+                            <textarea name="msg" id="msg" cols="30" rows="10"></textarea>
+                        </p>
+                        <p class="submit-wrapper">
+                            <input class="submit" type="submit" value="Отправить"/>
+                            <input type="hidden" name="submitted-question" id="submitted" value="true" />
+                        </p>
+                        <div class="clearfix"></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
 
     <div class="contacts pop-up" style="display:none">
         <div class="content-wrapper-smaller">
@@ -146,8 +233,7 @@ if(isset($_POST['submitted'])) {
             <div class="close right">X</div>
             <div class="content">
                 <h1>Контакты</h1>
-                <p>Адрес: г. Чернигов, ул. Толстого, 15, офис 201</p>
-                <p>Ваш e-mail: kiev-plus@ukr.net</p>
+                <p>Наш e-mail: kiev-plus@ukr.net</p>
                 <p>Контактные тел: (044) 355-63-36 (063) 000-00-00</p>
 
                 <div class="map">

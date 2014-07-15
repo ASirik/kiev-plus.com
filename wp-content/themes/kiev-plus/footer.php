@@ -1,8 +1,8 @@
 <footer>
     <div class="content-wrapper">
         <div class="menu left">
-            <p><a class="cups" href="#">Обратная Связь</a></p>
-            <p><a class="cups" href="#">Обратный Звонок</a></p>
+            <p><a id="back-contact" class="cups" href="#">Обратная Связь</a></p>
+            <p><a id="back-call-footer" class="cups" href="#">Обратный Звонок</a></p>
         </div>
         <div class="contacts left">
             <a class="cups" id="contact">Контакты</a>
@@ -27,27 +27,6 @@
         </div>
     </section>
 </footer>
-<script type="text/javascript">
-    function validateForm()
-    {
-        /* Validating name field */
-        var x=document.forms["myForm"]["name"].value;
-        if (x==null || x=="")
-        {
-            alert("Name must be filled out");
-            return false;
-        }
-        /* Validating email field */
-        var x=document.forms["myForm"]["email"].value;
-        var atpos=x.indexOf("@");
-        var dotpos=x.lastIndexOf(".");
-        if (atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length)
-        {
-            alert("Not a valid e-mail address");
-            return false;
-        }
-    }
-</script>
     <?php wp_footer() ?>
 </body>
 </html>

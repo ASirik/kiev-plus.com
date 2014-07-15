@@ -49,7 +49,7 @@
                 <?php the_content(); ?>
             </div>
             <div class="card-description">
-        <?php echo  $a = htmlspecialchars_decode(get_post_meta($post->ID, 'SMTH_METANAME_VALUE' , true )) ;
+        <?php echo htmlspecialchars_decode(get_post_meta($post->ID, 'SMTH_METANAME_VALUE' , true )) ;
             $b = $datta=htmlspecialchars($_POST['card_description']);
         ?>
             </div>

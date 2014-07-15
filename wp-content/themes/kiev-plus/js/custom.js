@@ -17,6 +17,8 @@ jQuery(document).ready(function($){
         close   = $('.close'),
         popUp   = $('.pop-up'),
         backCall= $('#back-call'),
+        backCallFooter = $('#back-call-footer'),
+        backContact = $('#back-contact'),
         items   = $('.items'),
         itemsActive   = $('.items.active'),
         cardContent = $('.card-content');
@@ -24,7 +26,9 @@ jQuery(document).ready(function($){
     close.click(function(){
         popUp.hide();
     });
-
+    backContact.click(function(){
+        $('.back-contacts').show();
+    });
     contact.click(function(){
         $('.contacts').show();
     });
@@ -32,7 +36,9 @@ jQuery(document).ready(function($){
     backCall.click(function(){
         $('.back-call').show();
     });
-
+    backCallFooter.click(function(){
+        $('.back-call').show();
+    });
     cardContent.click(function(){
 
        return false;
