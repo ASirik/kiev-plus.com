@@ -6,7 +6,7 @@
         </div>
         <div class="contacts left">
             <a class="cups" id="contact">Контакты</a>
-            <p class="address">г. Чернигов <br/> kiev-plus@ukr.net</p>
+            <p class="address">г. Киев <br/> kiev-plus@ukr.net</p>
         </div>
         <div class="phones left">
             <p>(044) 355-63-36</p>
