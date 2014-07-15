@@ -151,11 +151,6 @@ if(isset($_POST['submitted-question'])) {
         <div class="content-wrapper-smaller">
             <div class="close right">X</div>
             <div class="content">
-                <?php
-                $page = get_post(9);
-                ?>
-                <?php get_the_content($page); ?>
-
 
                     <form action="<?php bloginfo('url'); ?>" method="POST">
                         <div class="call-back-form">
@@ -234,7 +229,7 @@ if(isset($_POST['submitted-question'])) {
             <div class="content">
                 <h1>Контакты</h1>
                 <p> Наш e-mail: kiev-plus@ukr.net</p>
-                <p>Контактные тел: (044) 355-63-36 (063) 000-00-00</p>
+                <p>Контактные тел: (044) 355-63-36 (063) 97-57-575</p>
 
                 <div class="map">
 

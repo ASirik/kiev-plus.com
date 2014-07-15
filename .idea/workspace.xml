@@ -26,48 +26,49 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="32" selection-start="772" selection-end="772" vertical-scroll-proportion="-7.740741" vertical-offset="0" max-vertical-offset="1235">
+            <state line="39" column="27" selection-start="1374" selection-end="1389" vertical-scroll-proportion="-6.203704" vertical-offset="406" max-vertical-offset="1235">
               <folding>
-                <element signature="e#1585#1606#0" expanded="true" />
+                <element signature="e#1540#1561#0" expanded="true" />
+                <marker date="1405448805000" expanded="true" signature="1591:1998" placeholder="..." />
+                <marker date="1405448805000" expanded="true" signature="1637:1987" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="131" column="0" selection-start="3768" selection-end="3768" vertical-scroll-proportion="-3.142857" vertical-offset="2306" max-vertical-offset="2907">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="24" selection-start="1854" selection-end="2044" vertical-scroll-proportion="-4.2222223" vertical-offset="874" max-vertical-offset="3116">
+            <state line="231" column="66" selection-start="8696" selection-end="8696" vertical-scroll-proportion="0.56347823" vertical-offset="4065" max-vertical-offset="4655">
               <folding>
-                <element signature="n#style#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/js/custom.js">
+      <file leaf-file-name="styles.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/css/styles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="8" selection-start="99" selection-end="99" vertical-scroll-proportion="0.09062003" vertical-offset="0" max-vertical-offset="1520">
+            <state line="326" column="8" selection-start="5207" selection-end="5207" vertical-scroll-proportion="0.0" vertical-offset="5998" max-vertical-offset="9158">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="back-call.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/back-call.php">
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="14" selection-start="1459" selection-end="1459" vertical-scroll-proportion="21.964285" vertical-offset="1071" max-vertical-offset="1938">
+            <state line="8" column="38" selection-start="385" selection-end="385" vertical-scroll-proportion="-5.428571" vertical-offset="0" max-vertical-offset="703">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="25" selection-start="791" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="1634">
               <folding />
             </state>
           </provider>
@@ -76,9 +77,11 @@
       <file leaf-file-name="page-contact.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/page-contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="39" selection-end="1791" vertical-scroll-proportion="-2.1111112" vertical-offset="0" max-vertical-offset="1425">
+            <state line="6" column="0" selection-start="39" selection-end="1791" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="1425">
               <folding>
-                <element signature="e#6#34#0" expanded="true" />
+                <marker date="1405332525000" expanded="true" signature="694:783" placeholder="..." />
+                <marker date="1405332525000" expanded="true" signature="1840:2003" placeholder="..." />
+                <marker date="1405332525000" expanded="true" signature="1867:1975" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -87,7 +90,7 @@
       <file leaf-file-name="option.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-includes/option.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="0" selection-start="2827" selection-end="2827" vertical-scroll-proportion="-2.142857" vertical-offset="1517" max-vertical-offset="27075">
+            <state line="88" column="0" selection-start="2827" selection-end="2827" vertical-scroll-proportion="0.0" vertical-offset="1672" max-vertical-offset="27170">
               <folding />
             </state>
           </provider>
@@ -96,16 +99,7 @@
       <file leaf-file-name="load-scripts.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-admin/load-scripts.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="9" selection-start="520" selection-end="520" vertical-scroll-proportion="-7.464286" vertical-offset="570" max-vertical-offset="3192">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="load-styles.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-admin/load-styles.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="9" selection-start="520" selection-end="520" vertical-scroll-proportion="-7.464286" vertical-offset="570" max-vertical-offset="3021">
+            <state line="41" column="9" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="3192">
               <folding />
             </state>
           </provider>
@@ -114,7 +108,7 @@
       <file leaf-file-name="process.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/process.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="43" selection-start="396" selection-end="437" vertical-scroll-proportion="-8.142858" vertical-offset="0" max-vertical-offset="380">
+            <state line="12" column="43" selection-start="396" selection-end="437" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="380">
               <folding />
             </state>
           </provider>
@@ -132,18 +126,18 @@
       <list>
         <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/css/styles.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/css/styles.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/back-call.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/proccess.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/process.php" />
         <option value="$PROJECT_DIR$/wp-admin/process.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/functions.php" />
         <option value="$PROJECT_DIR$/page-contact.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/page-contact.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/js/custom.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/css/styles.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/header.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/js/custom.js" />
       </list>
     </option>
   </component>
@@ -185,7 +179,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -232,6 +225,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="uploads" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kiev-plus.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kiev-plus.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -255,47 +274,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="kiev-plus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kiev-plus.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kiev-plus.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kiev-plus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="options.lastSelected" value="Configurable.PHP.Debug" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="Configurable.PHP.Debug" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -344,6 +340,24 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="41ddcc0b-21d4-4d1a-a676-153fd2ca9bae" name="Default" comment="" />
@@ -356,25 +370,25 @@
     <frame x="0" y="22" width="1440" height="813" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6046176" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24390244" sideWeight="0.3953824" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24748924" sideWeight="0.53535354" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46464646" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -384,6 +398,7 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -400,59 +415,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/wp-content/themes/kiev-plus/header.php</url>
-          <line>1</line>
-          <option name="timeStamp" value="7" />
+          <line>60</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-includes/plugin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="444" column="0" selection-start="15334" selection-end="15334" vertical-scroll-proportion="-4.25" vertical-offset="7975" max-vertical-offset="16397">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="2" selection-start="1323" selection-end="1323" vertical-scroll-proportion="-8.321428" vertical-offset="660" max-vertical-offset="55575">
-          <folding>
-            <marker date="1397526136000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1397526136000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/post-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="224" column="24" selection-start="5773" selection-end="5788" vertical-scroll-proportion="11.178572" vertical-offset="4436" max-vertical-offset="32338">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="9" selection-start="1654" selection-end="1654" vertical-scroll-proportion="-20.571428" vertical-offset="355" max-vertical-offset="1102">
-          <folding>
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
-            <marker date="1405260162000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
+        <state line="224" column="24" selection-start="5773" selection-end="5788" vertical-scroll-proportion="11.178572" vertical-offset="4436" max-vertical-offset="32338" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-admin/process.php">
@@ -464,85 +437,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/pluggable.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="224" column="9" selection-start="5927" selection-end="5927" vertical-scroll-proportion="-7.464286" vertical-offset="3952" max-vertical-offset="41857">
-          <folding />
-        </state>
+        <state line="224" column="9" selection-start="5927" selection-end="5927" vertical-scroll-proportion="-7.464286" vertical-offset="3952" max-vertical-offset="41857" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/back-call.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="14" selection-start="1459" selection-end="1459" vertical-scroll-proportion="21.964285" vertical-offset="1071" max-vertical-offset="1938">
-          <folding />
-        </state>
+        <state line="24" column="14" selection-start="1459" selection-end="1459" vertical-scroll-proportion="21.964285" vertical-offset="1071" max-vertical-offset="1938" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="131" column="0" selection-start="3768" selection-end="3768" vertical-scroll-proportion="-3.142857" vertical-offset="2306" max-vertical-offset="2907">
-          <folding />
-        </state>
+        <state line="131" column="0" selection-start="3768" selection-end="3768" vertical-scroll-proportion="-3.142857" vertical-offset="2306" max-vertical-offset="2907" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-admin/load-styles.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="9" selection-start="520" selection-end="520" vertical-scroll-proportion="-7.464286" vertical-offset="570" max-vertical-offset="3021">
+        <state line="41" column="9" selection-start="520" selection-end="520" vertical-scroll-proportion="-7.464286" vertical-offset="570" max-vertical-offset="3021" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/css/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="326" column="8" selection-start="5207" selection-end="5207" vertical-scroll-proportion="0.0" vertical-offset="5998" max-vertical-offset="9158">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/load-scripts.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="9" selection-start="520" selection-end="520" vertical-scroll-proportion="-7.464286" vertical-offset="570" max-vertical-offset="3192">
+        <state line="29" column="25" selection-start="791" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="1634">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/page-contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="39" selection-end="1791" vertical-scroll-proportion="-2.1111112" vertical-offset="0" max-vertical-offset="1425">
+        <state line="6" column="0" selection-start="39" selection-end="1791" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="1425">
           <folding>
-            <element signature="e#6#34#0" expanded="true" />
+            <marker date="1405332525000" expanded="true" signature="694:783" placeholder="..." />
+            <marker date="1405332525000" expanded="true" signature="1840:2003" placeholder="..." />
+            <marker date="1405332525000" expanded="true" signature="1867:1975" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/option.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="0" selection-start="2827" selection-end="2827" vertical-scroll-proportion="-2.142857" vertical-offset="1517" max-vertical-offset="27075">
+        <state line="88" column="0" selection-start="2827" selection-end="2827" vertical-scroll-proportion="0.0" vertical-offset="1672" max-vertical-offset="27170">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/index.php">
+    <entry file="file://$PROJECT_DIR$/wp-admin/load-scripts.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="32" selection-start="772" selection-end="772" vertical-scroll-proportion="-7.740741" vertical-offset="0" max-vertical-offset="1235">
-          <folding>
-            <element signature="e#1585#1606#0" expanded="true" />
-          </folding>
+        <state line="41" column="9" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="3192">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/process.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="43" selection-start="396" selection-end="437" vertical-scroll-proportion="-8.142858" vertical-offset="0" max-vertical-offset="380">
+        <state line="12" column="43" selection-start="396" selection-end="437" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/uploads/2014/07/hero-image-150x150.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="27" selection-start="1374" selection-end="1389" vertical-scroll-proportion="-6.203704" vertical-offset="406" max-vertical-offset="1235">
+          <folding>
+            <element signature="e#1540#1561#0" expanded="true" />
+            <marker date="1405448805000" expanded="true" signature="1591:1998" placeholder="..." />
+            <marker date="1405448805000" expanded="true" signature="1637:1987" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="38" selection-start="385" selection-end="385" vertical-scroll-proportion="-5.428571" vertical-offset="0" max-vertical-offset="703">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="24" selection-start="1854" selection-end="2044" vertical-scroll-proportion="-4.2222223" vertical-offset="874" max-vertical-offset="3116">
+        <state line="231" column="66" selection-start="8696" selection-end="8696" vertical-scroll-proportion="0.56347823" vertical-offset="4065" max-vertical-offset="4655">
           <folding>
-            <element signature="n#style#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="8" selection-start="99" selection-end="99" vertical-scroll-proportion="0.09062003" vertical-offset="0" max-vertical-offset="1520">
-          <folding />
         </state>
       </provider>
     </entry>
