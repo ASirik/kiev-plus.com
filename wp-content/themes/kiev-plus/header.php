@@ -7,7 +7,7 @@ if(isset($_POST['submitted'])) {
         $name = trim($_POST['name']);
     }
 
-    if(trim(isset($_POST['email'])) === '')  {
+    /*if(trim(isset($_POST['email'])) === '')  {
         $emailError = 'Please enter your email address.';
         $hasError = true;
     } else if (!preg_match("/^[[:alnum:]][a-z0-9_.-]*@[a-z0-9.-]+\.[a-z]{2,4}$/i", trim($_POST['email']))) {
@@ -15,7 +15,7 @@ if(isset($_POST['submitted'])) {
         $hasError = true;
     } else {
         $email = trim($_POST['email']);
-    }
+    }*/
 
     if(trim(isset($_POST['phone'])) === '')  {
         $emailError = 'Please enter your email address.';

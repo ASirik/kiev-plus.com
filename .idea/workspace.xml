@@ -39,7 +39,7 @@
       <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="231" column="66" selection-start="8696" selection-end="8696" vertical-scroll-proportion="0.56347823" vertical-offset="4065" max-vertical-offset="4655">
+            <state line="17" column="7" selection-start="607" selection-end="607" vertical-scroll-proportion="0.56173915" vertical-offset="0" max-vertical-offset="4655">
               <folding>
                 <element signature="n#style#0;n#div#3;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -526,7 +526,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="231" column="66" selection-start="8696" selection-end="8696" vertical-scroll-proportion="0.56347823" vertical-offset="4065" max-vertical-offset="4655">
+        <state line="17" column="7" selection-start="607" selection-end="607" vertical-scroll-proportion="0.56173915" vertical-offset="0" max-vertical-offset="4655">
           <folding>
             <element signature="n#style#0;n#div#3;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
