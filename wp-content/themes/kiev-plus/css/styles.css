@@ -186,7 +186,7 @@ header {
   background-color: #e9eaeb;
   width: 100%;
   position: relative; }
-  .hero-image content-wrapper {
+  .hero-image .content-wrapper {
     position: relative; }
   .hero-image h1 {
     font-weight: 100;
