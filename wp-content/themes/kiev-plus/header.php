@@ -139,7 +139,7 @@ if(isset($_POST['submitted-question'])) {
                 </p>
                 <div class="numbers right">
                     <p class="number bold">(044)&nbsp; 355-63-36</p>
-                    <p class="number bold">(044)&nbsp; 97-57-575</p>
+                    <p class="number bold">(063)&nbsp; 97-57-575</p>
                 </div>
                 <h2 class="cups">Бесплатная доставка по всей Украине</h2>
             </section>

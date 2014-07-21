@@ -8,7 +8,7 @@
 
             <div class="image-description left">
                 <h1 class="text-right cups">
-                    Выберите свою <br/> пластиеовую карту
+                    Выберите свою <br/> пластиковую карту
                 </h1>
             </div>
         </div>
