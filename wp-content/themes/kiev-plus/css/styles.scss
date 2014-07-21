@@ -186,11 +186,14 @@ header{
   background-color: #e9eaeb;
   width: 100%;
   position: relative;
+  content-wrapper{
+    position: relative;
+  }
   h1{
     font-weight: 100;
     position: absolute;
     top: 152px;
-    right: 261px;
+    right: 156px;
   }
 }
 .main-content{
