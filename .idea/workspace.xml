@@ -34,19 +34,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="163" column="10" selection-start="5631" selection-end="5631" vertical-scroll-proportion="0.9484193" vertical-offset="2527" max-vertical-offset="4655">
+            <state line="163" column="10" selection-start="5631" selection-end="5631" vertical-scroll-proportion="-20.357143" vertical-offset="2527" max-vertical-offset="4655">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="styles.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/css/styles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="326" column="8" selection-start="5207" selection-end="5207" vertical-scroll-proportion="0.0" vertical-offset="5998" max-vertical-offset="9158">
+            <state line="173" column="17" selection-start="2784" selection-end="2784" vertical-scroll-proportion="0.39795917" vertical-offset="3053" max-vertical-offset="9158">
               <folding />
             </state>
           </provider>
@@ -130,10 +130,10 @@
         <option value="$PROJECT_DIR$/page-contact.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/page-contact.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/js/custom.js" />
-        <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/css/styles.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kiev-plus/css/styles.scss" />
       </list>
     </option>
   </component>
@@ -478,13 +478,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/css/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="326" column="8" selection-start="5207" selection-end="5207" vertical-scroll-proportion="0.0" vertical-offset="5998" max-vertical-offset="9158">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="38" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="703">
@@ -542,7 +535,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="163" column="10" selection-start="5631" selection-end="5631" vertical-scroll-proportion="0.9484193" vertical-offset="2527" max-vertical-offset="4655">
+        <state line="163" column="10" selection-start="5631" selection-end="5631" vertical-scroll-proportion="-20.357143" vertical-offset="2527" max-vertical-offset="4655">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kiev-plus/css/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="173" column="17" selection-start="2784" selection-end="2784" vertical-scroll-proportion="0.39795917" vertical-offset="3053" max-vertical-offset="9158">
           <folding />
         </state>
       </provider>
