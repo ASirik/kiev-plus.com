@@ -1,18 +1,15 @@
 <?php get_header(); ?>
+<div id="wrapper">
+
     <section class="hero-image clearfix">
-        <div class="content-wrapper">
+        <div class="content-wrapper bx-slider-img">
         <?php
             $page = get_post(5);
         ?>
             <?php echo $page->post_content; ?>
-
-            <div class="image-description left">
-                <h1 class="text-right cups">
-                    Выберите свою <br/> пластиковую карту
-                </h1>
-            </div>
         </div>
     </section>
+
     <section class="container main-content content-wrapper">
         <?php if(have_posts()):  ?>
 
@@ -43,7 +40,8 @@
     </section>
 <?php if(have_posts()):  ?>
     <?php while(have_posts()) : the_post(); ?>
-    <div class="card-content" style="display: none" id="<?php  echo $post->ID ?>">
+
+        <div class="card-content" style="display: none" id="<?php  echo $post->ID ?>">
         <div class="content-wrapper-smaller">
             <div class="card">
                 <?php the_content(); ?>
@@ -57,4 +55,6 @@
     </div>
         <?php endwhile ?>
 <?php endif; ?>
+</div> <!--wrapper-->
+
 <?php get_footer(); ?>

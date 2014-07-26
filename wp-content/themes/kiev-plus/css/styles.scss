@@ -3,7 +3,7 @@
    License: none (public domain)
 */
 @import 'typography';
-
+@import "jquery.bxslider";
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -30,9 +30,13 @@ footer, header, hgroup, menu, nav, section {
   display: block;
 }
 body {
-  line-height: 100%;
   font:14px 'Gill Sans', sans-serif;
   color: #1a1a18;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 90%;
 }
 a, p{
   color: #1a1a18;
@@ -188,6 +192,8 @@ header{
   position: relative;
   .content-wrapper{
     position: relative;
+    height: 347px;
+    overflow: hidden;
   }
   h1{
     font-weight: 100;
@@ -330,7 +336,7 @@ footer{
 .pop-up{
   position: absolute;
   background: rgba(253,250,226, .9);
-  z-index: 9999;
+  z-index: 990;
   top: 111px;
   left: 0%;
   width: 100%;
@@ -477,4 +483,15 @@ footer{
     margin-bottom: 10px;
     font-size: 12px;
   }
+}
+
+#wrapper{
+  min-height: 97.5%;
+  position: relative;
+}
+
+footer{
+  width: 100%;
+  height: 122px;
+  position: relative;
 }

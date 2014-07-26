@@ -39,9 +39,10 @@ jQuery(document).ready(function($){
     backCallFooter.click(function(){
         $('.back-call').show();
     });
+
     cardContent.click(function(){
 
-       return false;
+        return false;
     });
 
     items.on('click', function(){
@@ -72,10 +73,14 @@ jQuery(document).ready(function($){
         }
         return false;
     });
+    $('.bx-slider-img').bxSlider({
+        infiniteLoop: true,
+        hideControlOnEnd: true,
+        mode: 'fade'
+    });
 
+    $('.hero-image  .bx-wrapper .content-wrapper a ').click(function(){
+        return false;
+    });
 
 });
-
-function email(){
-    alert('email send successfuli');
-}
